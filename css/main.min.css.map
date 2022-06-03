@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,gHAAI,CCAZ,AAAA,IAAI,AAAC,CACH,SAAS,CAAE,KAAK,CAChB,gBAAgB,CAAE,IAAI,CACtB,WAAW,CAAE,kBAAkB,CAC/B,WAAW,CAAE,MAAM,CACnB,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,CAAC,CACf,AAED,AAAA,GAAG,AAAC,CACF,OAAO,CAAE,KAAK,CACd,SAAS,CAAE,IAAI,CACf,MAAM,CAAE,IAAI,CACb,ACbD,AAAA,QAAQ,AAAC,CACP,WAAW,CAAE,IAAI,CACjB,cAAc,CAAE,IAAI,CACrB,ACHD,AAAA,UAAU,AAAC,CACT,aAAa,CAAE,IAAI,CACnB,YAAY,CAAE,IAAI,CAClB,YAAY,CAAE,IAAI,CAClB,WAAW,CAAE,IAAI,CAClB,ACLD,AAAA,EAAE,CACF,EAAE,CACF,EAAE,CACF,EAAE,AAAC,CACD,UAAU,CAAE,CAAC,CACb,aAAa,CAAE,CAAC,CACjB,AAED,AAAA,EAAE,AAAC,CACD,UAAU,CAAE,CAAC,CACb,aAAa,CAAE,CAAC,CAChB,oBAAoB,CAAE,CAAC,CACvB,UAAU,CAAE,IAAI,CACjB,AAED,AAAA,CAAC,AAAC,CACA,UAAU,CAAE,CAAC,CACb,aAAa,CAAE,CAAC,CACjB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/base/_global-styles.scss",
+        "../sass/base/_section.scss",
+        "../sass/base/_container.scss",
+        "../sass/base/_reset-styles.scss",
+        "../sass/utils/_visually-hidden.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
